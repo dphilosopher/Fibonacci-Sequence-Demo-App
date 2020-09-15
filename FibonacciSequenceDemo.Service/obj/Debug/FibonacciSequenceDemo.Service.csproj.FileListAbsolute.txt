@@ -1,0 +1,6 @@
+C:\Users\oomocho\Documents\Visual Studio 2017\Projects\FibonacciSequenceDemo\FibonacciSequenceDemo.Service\bin\Debug\FibonacciSequenceDemo.Service.dll
+C:\Users\oomocho\Documents\Visual Studio 2017\Projects\FibonacciSequenceDemo\FibonacciSequenceDemo.Service\bin\Debug\FibonacciSequenceDemo.Service.pdb
+C:\Users\oomocho\Documents\Visual Studio 2017\Projects\FibonacciSequenceDemo\FibonacciSequenceDemo.Service\obj\Debug\FibonacciSequenceDemo.Service.csprojAssemblyReference.cache
+C:\Users\oomocho\Documents\Visual Studio 2017\Projects\FibonacciSequenceDemo\FibonacciSequenceDemo.Service\obj\Debug\FibonacciSequenceDemo.Service.csproj.CoreCompileInputs.cache
+C:\Users\oomocho\Documents\Visual Studio 2017\Projects\FibonacciSequenceDemo\FibonacciSequenceDemo.Service\obj\Debug\FibonacciSequenceDemo.Service.dll
+C:\Users\oomocho\Documents\Visual Studio 2017\Projects\FibonacciSequenceDemo\FibonacciSequenceDemo.Service\obj\Debug\FibonacciSequenceDemo.Service.pdb
